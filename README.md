@@ -19,4 +19,4 @@ For Fully-Connected-Neural-Network-Based-Autoencoder-
  
  
 
-In the both the implemented methods in this repo, the phase is ignored for reconstruction as the motive of this repo was to come up withy simple models for speech compression.
+In both the implemented methods in this repository, the phase is ignored for reconstruction as the motive of this repo was to come up with simple models for speech compression.
