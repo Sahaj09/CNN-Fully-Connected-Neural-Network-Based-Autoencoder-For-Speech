@@ -16,3 +16,7 @@ For Fully-Connected-Neural-Network-Based-Autoencoder-
   Run the Fully-Connected-Neural-Network-Based-Autoencoder.ipynb,
   
   Make sure you change the directory
+ 
+ 
+
+In the both the implemented methods in this repo, the phase is ignored for reconstruction as the motive of this repo was to come up withy simple models for speech compression.
