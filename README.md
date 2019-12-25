@@ -19,4 +19,4 @@ For Fully-Connected-Neural-Network-Based-Autoencoder-
  
  
 
-In both the implemented methods in this repository, the phase is ignored for reconstruction as the motive of this repo was to come up with simple models for speech compression.
+In both the implemented methods in this repository, the phase is ignored for reconstruction as the motive of this repo was to come up with simple models for speech compression. The output time-domain signal is reconstructed using griffin-lim algorithm for spectograms (CNNs) and irfft for rfft values (Fully-Connected).
